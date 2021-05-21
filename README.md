@@ -3,6 +3,7 @@
 https://github.com/creeep123/SIT305-9.1-RestaurantMapApp
 
 ## Demo Video
+https://youtu.be/KJxBNPIFQs8
 
 ## Screen Shots
 
